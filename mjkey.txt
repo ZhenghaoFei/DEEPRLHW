@@ -1,0 +1,20 @@
+MuJoCo Pro Trial license activation key, number 63650, type 6.
+
+Issued to zhenghaofei <zfei@ucdavis.edu>.
+
+Expires March 14, 2017.
+
+This file activates MuJoCo Pro on a single computer with id:
+OSX_14DGE_5A6S022H91NPSYSC217PSLMA491
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+9215eda9b671aed90e8d85b0b1de85ac097b5dd00da373297aef1c6b29e11eb1
+29fcc9915e5c03d5ffedc195892ce350d8a1f1535699cf429d2e6156a8ae3482
+2a0e8942457b2a8bf29ae33ebb63930e576300864f62c5709465ff6a9331af8c
+ee7f21db30140c8276cfa0548a8ce830b03b996b83cf0524ae76149f06296ec8
+5c4d9c5afb33a3152913ecb37683af8ac2fc6a9ff57a5519a5cbfe799536b352
+b3298b44d5f6e10c5cdfe5d07154cf81de489ab7a2675e145b82d737580071ff
+e9ea288b7e6688fd0c697b0fa6f8ceb8717b0aef4ff2fe3c453eca9e805eeeae
+b3c037e48d99c60b74f9d180bd61ff38e792f6feb6ed9855b49d8c165f142cab
